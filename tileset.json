@@ -1,0 +1,7 @@
+{
+  "tiles": [
+    "https://raster.lizard.net/tms/raster/intern:nl:hhnk:wateroverlast_cm/Blues/{z}/{x}/{y}"
+  ],
+  "tilejson": "2.1.0",
+  "scheme": "tms"
+}
